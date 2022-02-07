@@ -1,3 +1,7 @@
+<h3 align="center">
+  <img src="./assets/images/cyber-psilocybin-logo.png" width="400">
+</h3>
+
 # git.commit.pattern
 🐱 Documentation of the emoji commit patterns used by the community
 
